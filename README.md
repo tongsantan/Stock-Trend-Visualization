@@ -1,1 +1,1 @@
-# Stock-Visualization
+# Stock-Trend-Visualization
